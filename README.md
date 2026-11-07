@@ -14,5 +14,6 @@ Partida para hacer crecer el canal, nivel a nivel.
 - **Tiempo:** 2 horas por semana.
 - **Ritmo:** 1 vídeo largo al mes + 2–3 Shorts por semana, sacados del mismo guion.
 - **Idioma:** primero español; los guiones que funcionen se traducen al inglés más adelante.
-- **Voz humana:** tu voz, no una voz de IA, para no chocar con la política de contenido «inauthentic» de YouTube.
+- **Voz:** ElevenLabs (plan gratuito). En los primeros vídeos se cita a ElevenLabs en la descripción. **Antes de pedir la monetización:** contratar un plan de pago (Starter o superior) y volver a generar la voz de los vídeos publicados con ese plan.
+- **Toque humano:** guiones propios, investigados y con fuentes, para no chocar con la política de contenido «inauthentic» de YouTube.
 - **Meta de monetización:** 1.000 suscriptores + 4.000 horas de visualización en 12 meses (o 10 M de visualizaciones de Shorts en 90 días).
