@@ -3,3 +3,4 @@ canal/*/audio_prueba/
 canal/*/salida_prueba/
 canal/*/salida/*.mp4
 *.orig
+canal/*/.voz-*/
