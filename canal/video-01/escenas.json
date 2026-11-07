@@ -14,7 +14,8 @@
     {
      "img": 1
     }
-   ]
+   ],
+   "capitulo": "Ellas no se escondieron"
   },
   {
    "id": "s02_promesa",
@@ -52,7 +53,8 @@
     {
      "img": 13
     }
-   ]
+   ],
+   "capitulo": "Mary Read: una vida disfrazada"
   },
   {
    "id": "s04_anne",
@@ -72,7 +74,8 @@
      "img": 6,
      "etiqueta": "John «Calico Jack» Rackham"
     }
-   ]
+   ],
+   "capitulo": "Anne Bonny: la hija rebelde"
   },
   {
    "id": "s05_robo",
@@ -91,7 +94,8 @@
      "img": 1,
      "nota": "Esto lo cuenta un libro de 1724.\nLos historiadores dudan de algunos detalles."
     }
-   ]
+   ],
+   "capitulo": "El robo del barco"
   },
   {
    "id": "s06_testigos",
@@ -111,7 +115,8 @@
     {
      "img": 5
     }
-   ]
+   ],
+   "capitulo": "Lo que dijeron los testigos"
   },
   {
    "id": "s07_ataque",
@@ -133,7 +138,8 @@
     {
      "img": 1
     }
-   ]
+   ],
+   "capitulo": "El ataque"
   },
   {
    "id": "s08_horca",
@@ -153,7 +159,8 @@
      "img": 4,
      "cita": "«Si hubieras luchado como un hombre,\nno te ahorcarían como a un perro.»"
     }
-   ]
+   ],
+   "capitulo": "La horca"
   },
   {
    "id": "s09_trampa",
@@ -168,7 +175,8 @@
     {
      "img": 2
     }
-   ]
+   ],
+   "capitulo": "La trampa a la horca"
   },
   {
    "id": "s10_final",
@@ -183,7 +191,8 @@
     {
      "img": 4
     }
-   ]
+   ],
+   "capitulo": "¿Qué fue de ellas?"
   },
   {
    "id": "s11_cierre",
@@ -237,6 +246,11 @@
    "cabecera": "La frase más brutal de una pirata",
    "piezas": [
     [
+     "x_short2_intro",
+     null,
+     null
+    ],
+    [
      "s07_ataque",
      "los hombres, borrachos",
      "Anne... y Mary."
@@ -267,8 +281,13 @@
    "cabecera": "Cómo dos piratas engañaron a la horca",
    "piezas": [
     [
-     "s09_trampa",
+     "x_short3_intro",
      null,
+     null
+    ],
+    [
+     "s09_trampa",
+     "Culpables.",
      null
     ],
     [
@@ -283,6 +302,16 @@
     3,
     4
    ]
+  }
+ ],
+ "extras": [
+  {
+   "id": "x_short2_intro",
+   "texto": "Esta es la frase más brutal que una pirata le dijo nunca a su capitán."
+  },
+  {
+   "id": "x_short3_intro",
+   "texto": "En 1720, dos piratas fueron condenadas a muerte... y se libraron de la horca con una sola frase."
   }
  ]
 }

@@ -338,10 +338,12 @@ def img_path(vdir, n):
 
 
 def largo(vdir, adir, cfg, sal, tmp):
-    visuales, piezas, words, t = [], [], [], 0.0
+    visuales, piezas, words, t, caps = [], [], [], 0.0, []
     esc = cfg["escenas"]
     for i, e in enumerate(esc):
         E = Escena(adir, e["id"])
+        if e.get("capitulo"):
+            caps.append((0 if not caps else int(t), e["capitulo"]))
         span = E.dur + GAP + (TAIL if i == len(esc) - 1 else 0)
         piezas.append((E.mp3, 0, E.dur, GAP))
         words += [(w, a + t, b + t) for w, a, b in E.words]
@@ -352,6 +354,10 @@ def largo(vdir, adir, cfg, sal, tmp):
         t += E.dur + GAP
     render(visuales, piezas, words, 1920, 1080, os.path.join(sal, "video-largo.mp4"), tmp)
     srt(words, os.path.join(sal, "subtitulos-es.srt"))
+    # Capítulos de YouTube: el primero en 0:00, al menos 3, cada uno de 10 s o más
+    with open(os.path.join(sal, "capitulos.txt"), "w") as f:
+        for s, nombre in caps:
+            f.write(f"{s // 60}:{s % 60:02d} {nombre}\n")
 
 
 def short(vdir, adir, sh, sal, tmp):

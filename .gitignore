@@ -4,3 +4,4 @@ canal/*/salida_prueba/
 canal/*/salida/*.mp4
 *.orig
 canal/*/.voz-*/
+canal/*/.tmp/

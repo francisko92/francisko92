@@ -53,7 +53,8 @@ def main():
     ap.add_argument("--prueba", action="store_true")
     ap.add_argument("--solo", help="id de una escena concreta")
     a = ap.parse_args()
-    esc = json.load(open(os.path.join(a.video_dir, "escenas.json")))["escenas"]
+    cfg = json.load(open(os.path.join(a.video_dir, "escenas.json")))
+    esc = cfg["escenas"] + cfg.get("extras", [])
     out = os.path.join(a.video_dir, "audio_prueba" if a.prueba else "audio")
     os.makedirs(out, exist_ok=True)
     total = 0
@@ -68,8 +69,8 @@ def main():
         else:
             if not a.voz:
                 sys.exit("Falta --voz")
-            prev = esc[i - 1]["texto"] if i else None
-            nxt = esc[i + 1]["texto"] if i + 1 < len(esc) else None
+            prev = esc[i - 1]["texto"] if i and i < len(cfg["escenas"]) else None
+            nxt = esc[i + 1]["texto"] if i + 1 < len(cfg["escenas"]) else None
             r = tts(a.voz, a.modelo, e["texto"], prev, nxt)
             open(mp3, "wb").write(base64.b64decode(r["audio_base64"]))
             al = r.get("alignment") or r["normalized_alignment"]
