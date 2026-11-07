@@ -4,7 +4,7 @@ Partida para hacer crecer el canal, nivel a nivel.
 
 | Nivel | Misión | Estado |
 |---|---|---|
-| 1 | Elegir el nicho | ✅ **Historias reales increíbles**, en español, sin salir en cámara, con tu voz |
+| 1 | Elegir el nicho | ✅ **Historias reales increíbles**, en español, sin salir en cámara, voz de ElevenLabs |
 | 2 | Primer vídeo | ✅ Montado: vídeo largo + 3 Shorts + miniatura. Falta que lo subas ([texto para YouTube](canal/video-01/descripcion-youtube.md)) |
 | 3 | Jefe final: el Algoritmo | 🔒 Ganchos en el primer segundo y retención |
 | 4 | Modo constancia | 🔒 Calendario de guiones para varias semanas |
