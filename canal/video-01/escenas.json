@@ -1,0 +1,288 @@
+{
+ "titulo": "Las dos piratas que engañaron a la horca",
+ "escenas": [
+  {
+   "id": "s01_gancho",
+   "texto": "Octubre de 1720. Un barco pirata es atacado por sorpresa. Toda la tripulación corre a esconderse bajo cubierta... menos dos personas. Y esas dos personas... eran mujeres.",
+   "imagenes": [
+    {
+     "img": 14
+    },
+    {
+     "img": 5
+    },
+    {
+     "img": 1
+    }
+   ]
+  },
+  {
+   "id": "s02_promesa",
+   "texto": "Hoy te cuento la historia de Anne Bonny y Mary Read. Lo que es verdad, lo que es leyenda... y cómo, cuando las condenaron a muerte, encontraron la única forma de escapar de la horca.",
+   "imagenes": [
+    {
+     "img": 1,
+     "titulo": "LAS DOS PIRATAS QUE\nENGAÑARON A LA HORCA"
+    },
+    {
+     "img": 2
+    },
+    {
+     "img": 15
+    }
+   ]
+  },
+  {
+   "id": "s03_mary",
+   "texto": "Empecemos por Mary. Según la crónica de la época, nació en Inglaterra, y su madre la vistió de niño desde pequeña, para cobrar una herencia que solo le correspondía a un hijo varón. Mary se acostumbró a vivir como un chico. Tanto, que de joven se alistó como soldado y luchó en Flandes. Allí se enamoró de un compañero, le reveló su secreto... y se casaron. Pero su marido murió pronto. Y Mary volvió a hacer lo único que sabía: ponerse ropa de hombre, y buscar trabajo. Se embarcó en un barco holandés rumbo al Caribe. Un barco que, por el camino, fue capturado por piratas ingleses. Y a Mary, la idea de ser pirata... no le pareció tan mala.",
+   "imagenes": [
+    {
+     "img": 3,
+     "etiqueta": "Mary Read"
+    },
+    {
+     "img": 3
+    },
+    {
+     "img": 12
+    },
+    {
+     "img": 14
+    },
+    {
+     "img": 13
+    }
+   ]
+  },
+  {
+   "id": "s04_anne",
+   "texto": "Anne venía de un mundo muy distinto. Nació en Irlanda, hija ilegítima de un abogado, que acabó llevándosela a Carolina del Sur, en América. Allí, en contra de su padre, se casó con un marinero sin dinero llamado James Bonny. Juntos se mudaron a Nassau, en las Bahamas. Por entonces, Nassau era prácticamente una república de piratas. Y allí, Anne conoció a un capitán con muy buena fama... y peor reputación: John Rackham. Le llamaban Calico Jack, por las camisas de algodón de colores que llevaba.",
+   "imagenes": [
+    {
+     "img": 4,
+     "etiqueta": "Anne Bonny"
+    },
+    {
+     "img": 12
+    },
+    {
+     "img": 13
+    },
+    {
+     "img": 6,
+     "etiqueta": "John «Calico Jack» Rackham"
+    }
+   ]
+  },
+  {
+   "id": "s05_robo",
+   "texto": "Anne dejó a su marido y se fue con Rackham. En agosto de 1720, robaron un barco en el puerto de Nassau y se hicieron a la mar. Y aquí, la historia se cruza: Mary Read estaba en esa misma tripulación. Cuenta la leyenda que Anne se fijó en aquel marinero tan joven y tan guapo... sin saber que era una mujer. Hasta que Mary tuvo que confesarle su secreto. En vez de un escándalo, nació una alianza.",
+   "imagenes": [
+    {
+     "img": 13
+    },
+    {
+     "img": 7
+    },
+    {
+     "img": 2
+    },
+    {
+     "img": 1,
+     "nota": "Esto lo cuenta un libro de 1724.\nLos historiadores dudan de algunos detalles."
+    }
+   ]
+  },
+  {
+   "id": "s06_testigos",
+   "texto": "Lo que sí sabemos con seguridad, es que el gobernador de las Bahamas, Woodes Rogers, publicó un anuncio declarando piratas a la tripulación de Rackham. Y en él, nombraba a dos mujeres: Anne Bonny, y Mary Read. En el juicio, una testigo llamada Dorothy Thomas contó que, cuando atacaban otros barcos, las dos llevaban ropa de hombre, pistola y machete. Que maldecían y juraban como cualquier marinero. Y que fueron ellas las que pidieron matarla, para que no pudiera declarar contra ellos.",
+   "imagenes": [
+    {
+     "img": 9,
+     "etiqueta": "Woodes Rogers, gobernador de las Bahamas"
+    },
+    {
+     "img": 8,
+     "etiqueta": "Boston Gazette, octubre de 1720"
+    },
+    {
+     "img": 8
+    },
+    {
+     "img": 5
+    }
+   ]
+  },
+  {
+   "id": "s07_ataque",
+   "texto": "Octubre de 1720. Costa oeste de Jamaica. La tripulación de Rackham lleva horas bebiendo. Entonces aparece un barco cazapiratas, al mando del capitán Jonathan Barnet. Y aquí viene la escena del principio: los hombres, borrachos, se esconden bajo cubierta. En cubierta solo quedan dos piratas luchando. Anne... y Mary. Según la crónica, Mary llegó a disparar hacia la bodega, gritando a sus compañeros que salieran a pelear como hombres. No salieron. Todos fueron capturados.",
+   "imagenes": [
+    {
+     "img": 11,
+     "etiqueta": "Jamaica"
+    },
+    {
+     "img": 14
+    },
+    {
+     "img": 5
+    },
+    {
+     "img": 5
+    },
+    {
+     "img": 1
+    }
+   ]
+  },
+  {
+   "id": "s08_horca",
+   "texto": "A Calico Jack lo juzgaron en Jamaica, y lo ahorcaron en noviembre de 1720. Su cuerpo se colgó en una jaula de hierro, a la entrada del puerto, como aviso para otros piratas. Aquel islote todavía hoy se llama Rackham's Cay. Dicen que, antes de morir, le dejaron ver a Anne por última vez. Y que ella le dijo: Si hubieras luchado como un hombre, no te ahorcarían como a un perro.",
+   "imagenes": [
+    {
+     "img": 10,
+     "etiqueta": "Port Royal, Jamaica"
+    },
+    {
+     "img": 15
+    },
+    {
+     "img": 6
+    },
+    {
+     "img": 4,
+     "cita": "«Si hubieras luchado como un hombre,\nno te ahorcarían como a un perro.»"
+    }
+   ]
+  },
+  {
+   "id": "s09_trampa",
+   "texto": "Unos días después, juzgaron a Anne y a Mary. Culpables. Condenadas a muerte. Y entonces, las dos dijeron algo que dejó al tribunal en silencio: estamos embarazadas. La ley inglesa no permitía ejecutar a una mujer embarazada. Así que la ejecución... se aplazó.",
+   "imagenes": [
+    {
+     "img": 1
+    },
+    {
+     "img": 15
+    },
+    {
+     "img": 2
+    }
+   ]
+  },
+  {
+   "id": "s10_final",
+   "texto": "Mary Read nunca salió de la cárcel. Murió allí en la primavera de 1721, probablemente de fiebre. ¿Y Anne Bonny? Aquí está el último misterio: nadie sabe qué fue de ella. No hay registro de su ejecución. Ni de su liberación. Simplemente... desaparece de la historia.",
+   "imagenes": [
+    {
+     "img": 3
+    },
+    {
+     "img": 4
+    },
+    {
+     "img": 4
+    }
+   ]
+  },
+  {
+   "id": "s11_cierre",
+   "texto": "Dos mujeres que se hicieron pasar por hombres, en el mundo más peligroso de su época... y que acabaron engañando, también, a la horca. Si te ha gustado, suscríbete: cada semana te cuento una historia real que parece inventada. Y dime en los comentarios: ¿qué crees que le pasó a Anne Bonny?",
+   "imagenes": [
+    {
+     "img": 2
+    },
+    {
+     "img": 1,
+     "titulo": "¿Qué le pasó a\nAnne Bonny?"
+    }
+   ]
+  }
+ ],
+ "miniatura": {
+  "img": 1,
+  "texto": "NO ERAN\nHOMBRES",
+  "sub": "Piratas del Caribe, 1720",
+  "centro": [
+   0.75,
+   0.4
+  ]
+ },
+ "shorts": [
+  {
+   "id": "short1",
+   "cabecera": "Se escondieron todos… menos ellas",
+   "piezas": [
+    [
+     "s01_gancho",
+     null,
+     null
+    ],
+    [
+     "s07_ataque",
+     "Según la crónica",
+     null
+    ]
+   ],
+   "imagenes": [
+    14,
+    5,
+    1,
+    5,
+    2
+   ]
+  },
+  {
+   "id": "short2",
+   "cabecera": "La frase más brutal de una pirata",
+   "piezas": [
+    [
+     "s07_ataque",
+     "los hombres, borrachos",
+     "Anne... y Mary."
+    ],
+    [
+     "s08_horca",
+     null,
+     "noviembre de 1720."
+    ],
+    [
+     "s08_horca",
+     "Dicen que",
+     null
+    ]
+   ],
+   "imagenes": [
+    5,
+    6,
+    15,
+    {
+     "img": 4,
+     "cita": "«Si hubieras luchado como un hombre, no te ahorcarían como a un perro.»"
+    }
+   ]
+  },
+  {
+   "id": "short3",
+   "cabecera": "Cómo dos piratas engañaron a la horca",
+   "piezas": [
+    [
+     "s09_trampa",
+     null,
+     null
+    ],
+    [
+     "s10_final",
+     null,
+     null
+    ]
+   ],
+   "imagenes": [
+    1,
+    15,
+    3,
+    4
+   ]
+  }
+ ]
+}
