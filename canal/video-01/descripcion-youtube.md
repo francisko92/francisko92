@@ -12,7 +12,15 @@ En 1720, un barco pirata fue atacado por sorpresa en la costa de Jamaica. Toda l
 Esta es su historia: lo que es verdad, lo que es leyenda, y cómo escaparon de la horca.
 
 ⏱️ CAPÍTULOS
-{{CAPITULOS}}
+0:00 Ellas no se escondieron
+0:27 Mary Read: una vida disfrazada
+1:12 Anne Bonny: la hija rebelde
+1:48 El robo del barco
+2:17 Lo que dijeron los testigos
+2:50 El ataque
+3:26 La horca
+3:54 La trampa a la horca
+4:14 ¿Qué fue de ellas?
 
 📚 FUENTES
 • Capitán Charles Johnson, "A General History of the Pyrates" (1724). Parte de lo que cuenta sobre su vida antes de 1720 es leyenda.

@@ -5,7 +5,7 @@ Partida para hacer crecer el canal, nivel a nivel.
 | Nivel | Misión | Estado |
 |---|---|---|
 | 1 | Elegir el nicho | ✅ **Historias reales increíbles**, en español, sin salir en cámara, con tu voz |
-| 2 | Primer vídeo | 🎮 En juego: [guion 01 · Anne Bonny y Mary Read](canal/nivel-2-primer-video/guion-01-anne-bonny-mary-read.md) |
+| 2 | Primer vídeo | ✅ Montado: vídeo largo + 3 Shorts + miniatura. Falta que lo subas ([texto para YouTube](canal/video-01/descripcion-youtube.md)) |
 | 3 | Jefe final: el Algoritmo | 🔒 Ganchos en el primer segundo y retención |
 | 4 | Modo constancia | 🔒 Calendario de guiones para varias semanas |
 
@@ -17,3 +17,9 @@ Partida para hacer crecer el canal, nivel a nivel.
 - **Voz:** ElevenLabs (plan gratuito). En los primeros vídeos se cita a ElevenLabs en la descripción. **Antes de pedir la monetización:** contratar un plan de pago (Starter o superior) y volver a generar la voz de los vídeos publicados con ese plan.
 - **Toque humano:** guiones propios, investigados y con fuentes, para no chocar con la política de contenido «inauthentic» de YouTube.
 - **Meta de monetización:** 1.000 suscriptores + 4.000 horas de visualización en 12 meses (o 10 M de visualizaciones de Shorts en 90 días).
+
+## Herramientas
+
+- `canal/herramientas/tts.py`: locución con ElevenLabs a partir de `escenas.json`.
+- `canal/herramientas/montar.py`: monta el vídeo largo, los Shorts, la miniatura, los subtítulos y los capítulos.
+- `.claude/skills/yt-*`: las 11 skills de [youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill) (MIT), disponibles en las sesiones de Claude Code que se abran en este repositorio.
